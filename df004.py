@@ -13,4 +13,5 @@ elif idade < 19:
     print('Esta com {} anos falta {} anos  para se alistar '.format(idade, falta))
 else:
     print('Esta com {} anos, passou {} anos do seu alistamento '.format(idade, passou))
+print('*===FIM===*')
 
